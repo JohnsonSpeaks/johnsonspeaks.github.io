@@ -18,21 +18,21 @@ defaults:
     type: posts
   values:
     layout: post
-    header_feature_image: 
-    caption: 
+    header_feature_image:
+    caption:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    header_feature_image: 
-    caption: 
+    header_feature_image:
+    caption:
 - scope:
     path: ''
     type: recipe
   values:
     layout: recipe
-    order: 
+    order:
 baseurl: ''
 url: https://johnsonspeaks.github.io
 description: A website with blog posts and recipes
@@ -40,7 +40,6 @@ avatar: "/uploads/Avatar.jpg"
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
-<<<<<<< HEAD
 header_text: Musings and Recipes
 recipecollection: Your recipe collection
 header_feature_image: "/uploads/Header.jpg"
@@ -59,40 +58,15 @@ pinterest:
 soundcloud:
 twitter:
 youtube:
-=======
-header_text: Writings and Recipes
-recipecollection: Your recipe collection
-header_feature_image: "/uploads/pages.jpg"
-recipe_bookcover: "/uploads/bookcover.jpg"
-twitter_username: 
-lang: en_gb
-footer_text: Copyright 2020 Emma Johnson
-rss: false
-email_address: 
-facebook: 
-flickr: 
-google_plus: 
-instagram: emma.yvonne.x
-linkedin: 
-pinterest: 
-soundcloud: 
-twitter: 
-youtube: 
->>>>>>> 981ff61df52c7231f50cdc1d84cb398c359a8aae
 share_buttons:
   facebook: true
   twitter: true
-  tumblr: 
-  pinterest: 
-  linkedin: 
+  tumblr:
+  pinterest:
+  linkedin:
   email: true
-<<<<<<< HEAD
 google_analytics:
 disqus_shortname:
-=======
-google_analytics: 
-disqus_shortname: 
->>>>>>> 981ff61df52c7231f50cdc1d84cb398c359a8aae
 str_follow_on: Follow on
 str_rss_follow: Follow RSS feed
 str_share_on: Share on
@@ -119,8 +93,5 @@ exclude:
 - ".jekyll-cache"
 - Gemfile
 - README.md
-<<<<<<< HEAD
 Avatar by Florian Klauer on Unsplash
 Header Photo by Keila Hötzel on Unsplash
-=======
->>>>>>> 981ff61df52c7231f50cdc1d84cb398c359a8aae
