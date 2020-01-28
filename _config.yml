@@ -35,7 +35,7 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://johnsonspeaks.github.io"   #change this to yours
-title: Johnson's Recipes # site's title
+title: Johnson Speaks # site's title
 description: "A website with blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
