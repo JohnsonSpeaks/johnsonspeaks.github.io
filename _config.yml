@@ -41,7 +41,7 @@ description: "A website with blog posts and recipes" # used by search engines
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: _uploads/Avatar.jpg
+avatar: /uploads/Avatar.jpg
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
