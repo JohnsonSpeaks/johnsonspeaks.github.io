@@ -42,7 +42,7 @@ gridlayout: false
 recipemenu: false
 header_text: Musings and Recipes
 recipecollection: Your recipe collection
-header_feature_image: "/uploads/pink.jpg"
+header_feature_image: "/uploads/pink header.jpg"
 recipe_bookcover: "/uploads/bookcover.jpg"
 twitter_username:
 lang: en_gb
