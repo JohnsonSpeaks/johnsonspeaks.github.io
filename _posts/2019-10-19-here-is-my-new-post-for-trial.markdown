@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Here is a sample blog post
-date: 2019-10-19
-published: true
-header_feature_image: _uploads/tomatoes.jpg
-caption: "Juicy Tomatoes"
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Journalism
-  - Life
-  - Food
+- Journalism
+- Life
+- Food
+layout: post
+header_feature_image: _uploads/tomatoes.jpg
+caption: Juicy Tomatoes
 ---
 
 This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
