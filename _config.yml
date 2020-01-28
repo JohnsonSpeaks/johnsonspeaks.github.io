@@ -34,8 +34,8 @@ defaults:
 
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
-title: My name or organisation # site's title
+url: "https://johnsonspeaks.github.io"   #change this to yours
+title: Johnson's Recipes # site's title
 description: "A website with blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
@@ -51,7 +51,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: My blog and my recipes
+header_text: A collection of blog posts and recipes
 
 recipecollection: Your recipe collection
 
@@ -63,7 +63,7 @@ twitter_username:   #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2020 My name"
+    "Copyright 2020 Emma Johnson"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
