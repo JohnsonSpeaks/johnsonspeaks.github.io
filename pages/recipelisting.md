@@ -1,7 +1,7 @@
 ---
-layout: recipelist
 title: My Recipes
-permalink: /recipelist/
-published: true
+permalink: "/recipelist/"
+layout: recipelist
 hide: true
 ---
+

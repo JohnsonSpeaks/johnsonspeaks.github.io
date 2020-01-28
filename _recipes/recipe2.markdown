@@ -1,14 +1,13 @@
 ---
-layout: recipe
 title: Any Recipe
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order: 1
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Dutch
-  - Fish
-  - Main
+- Dutch
+- Fish
+- Main
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 1
 ---
 
 # Recipe Title

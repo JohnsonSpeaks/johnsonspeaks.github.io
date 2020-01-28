@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 {
     "tags": [
         {%- for tag in site.tags -%}

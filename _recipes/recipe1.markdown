@@ -1,14 +1,13 @@
 ---
-layout: recipe
 title: Moussaka
-date: 2019-10-19
-excerpt_separator: <!--more-->
-published: true
-order:
+date: 2019-10-19 00:00:00 Z
 tags:
-  - Greek
-  - Meat
-  - Hot
+- Greek
+- Meat
+- Hot
+layout: recipe
+excerpt_separator: "<!--more-->"
+order: 
 ---
 
 # Moussaka

@@ -1,11 +1,10 @@
 ---
-layout: recipeshome
 title: Recipes
-subtitle: My Recipe Site #optional sub title to the post
-permalink: /recipes/
-tags:
-published: true
-hide: true #remove this line when you want your recipe site on the menu
+permalink: "/recipes/"
+layout: recipeshome
+subtitle: My Recipe Site
+tags: 
+hide: true
 ---
 
 Here is an introduction to my recipe site
