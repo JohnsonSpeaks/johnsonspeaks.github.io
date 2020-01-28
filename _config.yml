@@ -41,7 +41,7 @@ description: "A website with blog posts and recipes" # used by search engines
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
+avatar: assets/img/Avatar.jpg
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
@@ -51,7 +51,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: A collection of blog posts and recipes
+header_text: Writings and Recipes
 
 recipecollection: Your recipe collection
 
@@ -71,7 +71,7 @@ email_address: # Full email address, e.g. "sam@example.com"
 facebook:
 flickr:
 google_plus:
-instagram:
+instagram: emma.yvonne.x
 linkedin:  # Full URL
 pinterest:
 soundcloud:
