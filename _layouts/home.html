@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+{%- if site.header_feature_image -%}
+  <div id="main" class="call-out"
+  style="text-shadow: 0px 0px 10px rgba(0,0,0,0.9) !important; background-image: url('{{ site.header_feature_image | relative_url }}')">
+  {%- if site.header_text -%}
+    <h1> {{ site.header_text }} </h1>
+  {%- endif -%}
+  </div>
+{%- endif -%}
+
+  {%- include blog.html -%}
+
+</div>

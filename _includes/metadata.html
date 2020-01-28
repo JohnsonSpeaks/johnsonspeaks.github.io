@@ -1,0 +1,30 @@
+{%- seo title=false -%}
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+{%- if page.header_feature_image != null -%}
+<meta property="og:image" content="{{site.url}}{{page.header_feature_image}}">
+{%- else -%}
+<meta property="og:image" content="{{site.url}}{{site.header_feature_image}}">
+{%- endif -%}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{site.url}}{{page.url}}">
+<meta name="twitter:site" content="@{{site.twitter_username}}">
+{%- if page.title != null -%}
+<meta name="twitter:title" content="{{page.title}}">
+{%- else -%}
+<meta name="twitter:title" content="{{site.title}}">
+{%- endif -%}
+{%- if page.excerpt != null -%}
+<meta name="twitter:description" content="{{page.excerpt | strip_html}}">
+{%- else -%}
+<meta name="twitter:description" content="{{site.description}}">
+{%- endif -%}
+{%- if page.header_feature_image != null -%}
+<meta name="twitter:image" content="{{site.url}}{{page.header_feature_image}}">
+{%- else -%}
+<meta name="twitter:image" content="{{site.url}}{{site.header_feature_image}}">
+{%- endif -%}
+<meta name="twitter:creator" content="@{{site.twitter_username}}">

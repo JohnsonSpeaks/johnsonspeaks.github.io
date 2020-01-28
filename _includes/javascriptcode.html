@@ -1,0 +1,28 @@
+<script>
+        $(document).ready(function() {
+            $('.fancybox').fancybox();
+        });
+    </script>
+    <script>
+    jQuery(document).ready(function($) {
+    	$("img:not([title])").each(function() {
+    			if($(this).attr("alt") != '') $(this).parent().attr("title", $(this).attr("alt"))
+    			else $(this).parent().attr("title", $(this).attr("src"));
+    	});
+    });
+    </script>
+    <script>
+        $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').attr('class', 'postimage').fancybox();
+    </script>
+
+		<!-- here follows a script to put the alt tag to a caption under the images -->
+
+<script>
+$(".post-content img").each(function() {
+    var imageCaption = $(this).attr("alt");
+    if (imageCaption != '') {
+        $("<span class='caption'>" + imageCaption +
+            "</span>").insertAfter(this);
+    }
+});
+</script>

@@ -1,0 +1,32 @@
+<div class="posts">
+
+  {%- assign items = site.recipes | sort: 'order' -%}
+    {%- for recipe in items limit:30 -%}
+    <div class="post-teaser">
+        {% if recipe.header_feature_image %}
+        {% assign image_url = recipe.header_feature_image | replace: "_uploads", "uploads" -%}
+        <div class="post-img">
+            <a aria-label="{{ project.title }}" href="{{ project.url | relative_url }}">
+              {%- if recipe.caption -%}
+                <img alt="{{ post.caption }}" src="{{ image_url }}">
+              {%- else -%}
+                <img alt="{{ post.title }}" src="{{ image_url }}">
+              {%- endif -%}
+            </a>
+        </div>
+        {% endif %}
+        <span>
+          <header>
+            <h1>
+              <a aria-label="{{ recipe.title }}" class="post-link" href="{{ recipe.url | relative_url }}">
+                {{ recipe.title }}
+              </a>
+            </h1>
+          </header>
+          <div class="excerpt">
+              {{ recipe.excerpt }}
+          </div>
+      </span>
+    </div>
+    {% endfor %}
+</div>

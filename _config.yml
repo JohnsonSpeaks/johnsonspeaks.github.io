@@ -1,0 +1,120 @@
+# collections
+collections:
+  recipes:
+    title: Recipes
+    output: true
+    excerpt_separator: <!--more-->
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    header_feature_image:
+    caption:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    header_feature_image:
+    caption:
+- scope:
+    path: ''
+    type: recipe
+  values:
+    layout: recipe
+    order:
+
+# SITE CONFIGURATION
+baseurl: ''  #leave this alone
+url: "https://yoursite.github.io"   #change this to yours
+title: My name or organisation # site's title
+description: "A website with blog posts and recipes" # used by search engines
+
+# SITE-SPECIFIC CONFIGURATION
+# Change these 2 images for your own site
+
+avatar: assets/img/face.jpg
+favicon: assets/favicon.ico
+
+# Your blog on the home page can be arranged as a grid
+
+gridlayout: false # change to true if you want grd layout
+recipemenu: false # you can change to true and a menu of all recipes will appear
+
+# Header and footer text
+# Change this text to yourown
+header_text: My blog and my recipes
+
+recipecollection: Your recipe collection
+
+# find an image for your own home page and put it into the images folder
+header_feature_image: /uploads/pages.jpg
+recipe_bookcover: /uploads/bookcover.jpg
+
+twitter_username:   #change to your own twitter account
+lang: en_gb
+# change the following to your name or site name
+footer_text:
+    "Copyright 2020 My name"
+  # Icons
+  # If you have any of these accounts add them in here
+rss: false  # Make sure you created a feed.xml with feed.xml layout
+email_address: # Full email address, e.g. "sam@example.com"
+facebook:
+flickr:
+google_plus:
+instagram:
+linkedin:  # Full URL
+pinterest:
+soundcloud:
+twitter: # "twitter username"
+youtube:
+
+# Sharing options
+share_buttons:
+  facebook: true
+  twitter: true
+  tumblr:
+  pinterest:
+  linkedin:
+  email: true
+
+# Scripts / Features
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname: # create an account on disqus.com for comments
+
+# Localization strings
+str_follow_on: "Follow on"
+str_rss_follow: "Follow RSS feed"
+str_share_on: "Share on"
+str_add_to: "Add to"
+str_email: "Email"
+str_tweet: "Tweet"
+str_pin_it: "Pin it"
+str_next_post: "Next post"
+str_previous_post: "Previous post"
+str_next_page: "Next"
+str_previous_page: "Prev"
+str_javascript_required_disqus: "Please enable JavaScript to view comments."
+
+# Post navigation
+post_navigation: true
+
+# PAGINATION
+paginate: 10
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+exclude: [".jekyll-cache", "Gemfile", "README.md"]

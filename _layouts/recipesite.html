@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include recipeshead.html %}
+  <body>
+
+    {%- if page.layout == "recipeshome" -%}
+    {%- if site.recipe_bookcover -%}
+      <a title="see a list of all recipes" href="/recipelist"><div id="main">
+    <img class="cover" src="{{ site.recipe_bookcover | relative_url }}" alt="site.recipecollection">
+      </div></a>
+    {%- endif -%}
+    {%- endif -%}
+
+    {% include recipenavbar.html %}
+    <div class="content">
+      {{ content }}
+    </div>
+
+
+  </body>
+</html>
