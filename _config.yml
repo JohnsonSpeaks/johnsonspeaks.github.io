@@ -36,7 +36,7 @@ defaults:
 baseurl: ''
 url: https://johnsonspeaks.github.io
 description: A website with writing and recipes
-avatar: /uploads/avatar.jpg
+avatar: /uploads/new avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
