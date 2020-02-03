@@ -36,13 +36,13 @@ defaults:
 baseurl: ''
 url: https://johnsonspeaks.github.io
 description: A website with writing and recipes
-avatar: "/uploads/avatar.jpg"
+avatar: /uploads/avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
 header_text: Musings and Recipes
 recipecollection: Your recipe collection
-header_feature_image: "/uploads/header moon.jpg"
+header_feature_image: /uploads/header.jpg
 recipe_bookcover: "/uploads/bookcover.jpg"
 twitter_username:
 lang: en_gb
