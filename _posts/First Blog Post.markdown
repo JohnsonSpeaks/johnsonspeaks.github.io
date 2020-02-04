@@ -1,6 +1,6 @@
 ---
 title: The Dangers of Celebrity Health Blogs
-date: 2020-04-02 00:00:00
+date: 2020-02-04 13:57
 published: true
 tags:
 - Journalism
