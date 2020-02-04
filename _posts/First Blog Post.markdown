@@ -1,6 +1,7 @@
 ---
 title: The Dangers of Celebrity Health Blogs
-date: 2019-10-19 00:00:00 Z
+date: 2019-10-19 00:00:00
+published: true
 tags:
 - Journalism
 - Life
@@ -22,4 +23,4 @@ _uploads/jade egg.png
 
 When we treat celebrities as the highest quality of advice givers, it does put us in a certain level of danger. Celebrities have also been at the front of the anti-vax protests. Suggesting that we shouldn’t vaccinate our children because of the ‘toxins’ found inside - toxins being the cure to diseases. This dangerous idea has led to the death of many infants who aren’t strong enough to fight off diseases, celebrity bloggers are at least most of the blame for this horrific trend.
 
-At the end of the day, our obsession with elite celebrities won’t stop any time soon. However, maybe it’s time to stop trusting these Gods with our health, lives and children. How about instead of using vaginal jade eggs to cure yourself, it might be time to call your doctor instead… just something to think about. 
+At the end of the day, our obsession with elite celebrities won’t stop any time soon. However, maybe it’s time to stop trusting these Gods with our health, lives and children. How about instead of using vaginal jade eggs to cure yourself, it might be time to call your doctor instead… just something to think about.
