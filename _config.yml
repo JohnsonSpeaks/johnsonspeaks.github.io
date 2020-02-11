@@ -40,9 +40,9 @@ avatar: /uploads/new avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
-header_text: Musings and Recipes
+header_text: My Musings
 recipecollection: Your recipe collection
-header_feature_image: /uploads/new header.jpg
+header_feature_image: /uploads/new header image.jpg
 recipe_bookcover: "/uploads/bookcover.jpg"
 twitter_username:
 lang: en_gb
