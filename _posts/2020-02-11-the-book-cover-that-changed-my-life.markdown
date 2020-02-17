@@ -6,14 +6,15 @@ published: true
 header_feature_image: _uploads/blog 2 header.jpg
 caption: Illustrations from the Wardstone Chronicles
 tags:  
-Books
-reading
-horror
-children
-publishing
-design
+- Books
+- reading
+- horror
+- children
+- publishing
+- design
   # use [tag1,tag2]
 ---
+
 I didn’t have a brother or sister growing up, and the block of council flats never offered up a friend, instead I would read. For as long as I remember I was always being told that I was reading above my age. Books about dogs and pretty fairies never interested me, even when I was properly young and girly, I always reached higher up the bookcase. I was desperate for bigger adventures, higher stakes, and a bit of terror.
 
 I think I started to get disillusioned with reading, if I was made to read about one more puppy finding his way home I probably would’ve started a riot. One day I was walking through the local shopping centre when I stumbled upon a book stand covered in gold and black books, and a headline which read ‘SPOOKS’, I was instantly enthralled. These books looked as if they were made out of plain black leather, with gold minimalist writing, and an outline of a cloaked man on the cover; it was mysterious, and I wanted them. I picked one up and looked at the back to find the words ‘Warning: Do not read after dark’ and I was hooked.
