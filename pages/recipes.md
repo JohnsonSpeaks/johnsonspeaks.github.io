@@ -2,7 +2,7 @@
 title: Recipes
 permalink: "/recipes/"
 layout: recipeshome
-subtitle: My Recipe Site
+subtitle: Eat In Pink
 tags:
 hide: false
 ---
