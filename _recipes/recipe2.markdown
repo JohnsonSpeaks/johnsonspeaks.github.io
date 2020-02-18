@@ -6,7 +6,7 @@ tags:
 - Italian
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 1
+order: 2
 ---
 
 # Beet Pasta
