@@ -26,5 +26,5 @@ order: 10
 ## Method
 
 1. Mix the vodka, cranberry juice and lemon juice together in a shaker with plenty of ice.
-2. Add the fairy floss (cotton candy/candy floss) to your martini glass.
-3. Strain the martini over the fairy floss and watch the instant magic
+2. Add the candyfloss to your martini glass.
+3. Strain the martini over the candyfloss and watch the instant magic
