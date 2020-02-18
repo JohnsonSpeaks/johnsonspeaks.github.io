@@ -43,7 +43,7 @@ recipemenu: false
 header_text: My Musings
 recipecollection: Your recipe collection
 header_feature_image: /uploads/typehead.jpg
-recipe_bookcover: "/uploads/bookcover.jpg"
+recipe_bookcover: "/uploads/recipecover.jpg"
 twitter_username:
 lang: en_gb
 footer_text: Copyright 2020 Emma Johnson
