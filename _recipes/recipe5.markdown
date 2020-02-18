@@ -6,7 +6,7 @@ tags:
 - Meat
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 3 
+order: 5
 ---
 
 # Gammon with Pineapple Salsa

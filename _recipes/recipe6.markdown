@@ -2,9 +2,7 @@
 title: Beet Cashew Hummus with Garlic Tahini
 date: 2019-10-19 00:00:00 Z
 tags:
-- Greek
-- Meat
-- Hot
+- appetizer
 layout: recipe
 excerpt_separator: "<!--more-->"
 order: 2

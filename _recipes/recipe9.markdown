@@ -6,7 +6,7 @@ tags:
 - drink
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 9
+order: 10
 ---
 
 # Pink Lady

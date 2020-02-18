@@ -6,7 +6,7 @@ tags:
 - Drink
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 10
+order: 9
 ---
 
 # Candyfloss Martini
