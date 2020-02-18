@@ -7,7 +7,7 @@ tags:
 - Sweet
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 9
+order: 7
 ---
 
 # Rose Pink Macarons
