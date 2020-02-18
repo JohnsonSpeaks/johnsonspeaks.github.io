@@ -3,8 +3,8 @@ title: Recipes
 permalink: "/recipes/"
 layout: recipeshome
 subtitle: My Recipe Site
-tags: 
-hide: true
+tags:
+hide: false
 ---
 
 Here is an introduction to my recipe site
