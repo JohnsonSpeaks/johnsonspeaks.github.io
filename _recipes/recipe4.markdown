@@ -7,7 +7,7 @@ tags:
 - Fish
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 1
+order: 2
 ---
 
 # Salmon Pâté

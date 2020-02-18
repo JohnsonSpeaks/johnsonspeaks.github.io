@@ -5,7 +5,7 @@ tags:
 - appetizer
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 2
+order: 1
 ---
 
 # Beet Cashew Hummus with Garlic Tahini
