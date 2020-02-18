@@ -42,7 +42,7 @@ gridlayout: false
 recipemenu: false
 header_text: My Musings
 recipecollection: Pink Recipes
-header_feature_image: /uploads/typehead.jpg
+header_feature_image: /uploads/oxfordheader.jpg
 recipe_bookcover: "/uploads/recipecover.jpg"
 twitter_username:
 lang: en_gb
