@@ -11,6 +11,8 @@ order: 5
 
 # Beet Pasta
 
+An eccentric and colourful Italian meal to brighten up your meal times.  
+
 <!--more-->
 
 [![Beet Pasta](/_uploads/beetpasta.jpg)](/_uploads/beetpasta.jpg)

@@ -10,6 +10,8 @@ order: 1
 
 # Beet Cashew Hummus with Garlic Tahini
 
+This spread is great to look at and eat! Enjoy a modern twist on the classic Garlic Tahini. 
+
 <!--more-->
 
 [![Beet Cashew Hummus with Garlic Tahini](/_uploads/cashew.jpg)](/_uploads/cashew.jpg)

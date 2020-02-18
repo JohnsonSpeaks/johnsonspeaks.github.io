@@ -11,6 +11,8 @@ order: 10
 
 # Pink Lady
 
+This elegant drink is a wonderful way to end a long day.
+
 <!--more-->
 
 [![Pink Lady](/_uploads/lady.jpg)](/_uploads/lady.jpg)

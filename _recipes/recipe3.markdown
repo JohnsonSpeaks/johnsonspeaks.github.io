@@ -11,6 +11,8 @@ order: 9
 
 # Candyfloss Martini
 
+Your girls night in has just gotten sweeter with the wonderful Candyfloss Martini. 
+
 <!--more-->
 
 [![Candyfloss Martini](/_uploads/martini.jpg)](/_uploads/martini.jpg)

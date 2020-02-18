@@ -12,6 +12,8 @@ order: 7
 
 # Rose Pink Macarons
 
+This French delicacy is delicate and tasty, a lovely way to cleanse your palette after a meal.
+
 <!--more-->
 
 [![Rose Pink Macarons](/_uploads/macaron.jpg)](/_uploads/macaron.jpg)

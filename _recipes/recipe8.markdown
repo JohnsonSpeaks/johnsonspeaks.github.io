@@ -11,6 +11,8 @@ order: 8
 
 # Pink Velvet Cake
 
+If you've ever wanted to spice up a birthday party look no further than the Pink Velvet Cake. Red is out, pink is in!
+
 <!--more-->
 
 [![Pink Velvet Cake](/_uploads/velevt.jpg)](/_uploads/velevt.jpg)

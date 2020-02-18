@@ -11,6 +11,8 @@ order: 6
 
 # Watermelon, Rose and and Lime Sorbet
 
+Something sweet to wrap up on the sofa with after a long day. 
+
 <!--more-->
 
 [![Watermelon, Rose and Lime Sorbet](/_uploads/sorbet.jpeg)](/_uploads/sorbet.jpeg)

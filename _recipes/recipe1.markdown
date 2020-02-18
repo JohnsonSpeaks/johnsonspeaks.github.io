@@ -11,6 +11,8 @@ order: 3
 
 # Beet Risotto with Asparagus Mushroom Fricassee
 
+An explosion of taste is what comes to mind when eating this Fricassee. With a mixture of hot pink and luscious green, this colourful meal will surely be enjoyable.
+
 <!--more-->
 
 [![Beet Risotto with Asparagus Mushroom Fricassee](/_uploads/risotto.jpg)](/_uploads/risotto.jpg)

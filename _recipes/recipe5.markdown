@@ -11,6 +11,8 @@ order: 4
 
 # Gammon with Pineapple Salsa
 
+Gammon and Pineapple may seem unusual, but this is a fantastic mix of sweet and savoury. 
+
 <!--more-->
 
 [![Gammon with Pineapple Salsa](/_uploads/gammon.jpg)](/_uploads/gammon.jpg)

@@ -12,6 +12,8 @@ order: 2
 
 # Salmon Pâté
 
+Start off with this delicious appetizer, a great start to a lovely evening.
+
 <!--more-->
 
 [![Salmon Pâté](/_uploads/salmonpate.jpg)](/_uploads/salmonpate.jpg)
