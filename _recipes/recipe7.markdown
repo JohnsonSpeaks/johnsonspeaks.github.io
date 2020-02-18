@@ -20,18 +20,18 @@ This French delicacy is delicate and tasty, a lovely way to cleanse your palette
 
 ## Ingredients
 
-- 150g (5oz) icing sugar
-- 100g (3½oz) ground almonds
+- 5oz icing sugar
+- 3½oz ground almonds
 - 3 large egg whites
-- 75g (2½oz) granulated sugar
+- 2&#189;oz granulated sugar
 - 1 tsp of rose water
-- About ¼ tsp of pink food colouring
+- About &#188; tsp of pink food colouring
 For the Filling
-- 90g (3oz) butter
-- 175g (6oz) icing sugar
+- 3oz butter
+- 6oz icing sugar
 - A few drops of rose water
 - Pink food colouring
-- Piping bag with a 5mm (¼in) plain nozzle and a star nozzle
+- Piping bag with a 5mm plain nozzle and a star nozzle
 - 2 baking trays, lined with Bakewell paper
 
 

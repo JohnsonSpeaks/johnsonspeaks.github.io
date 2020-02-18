@@ -23,7 +23,7 @@ Risotto
 - 2 Tbsp olive oil
 - 1 cup diced leeks, washed well
 - 1 cup Arborio rice
-- ½ cup dry white wine
+- &#189; cup dry white wine
 - juice of 1 lemon
 - 2 cup coarsely grated fresh beets
 - 2 tsp chopped fresh thyme
@@ -31,10 +31,10 @@ Risotto
 - 3 cup vegatable stock
 - salt and pepper
 Fricassee
-- 1 ½ lb(s) asparagus, cut into 1-inch pieces
+- 1 &#189; lb(s) asparagus, cut into 1-inch pieces
 - 1 Tbsp olive oil
 - 1 cup diced leeks, washed well
-- ½ lb(s) button or cremini mushrooms, quartered
+- &#189; lb(s) button or cremini mushrooms, quartered
 - 1 tsp chopped fresh thyme
 - 1 tsp chopped fresh tarragon
 - salt and pepper

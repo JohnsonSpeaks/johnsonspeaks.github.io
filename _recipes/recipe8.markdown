@@ -23,9 +23,9 @@ If you've ever wanted to spice up a birthday party look no further than the Pink
 - 4 cups all-purpose flour
 - 2 teaspoons table salt
 - 1 cup unsalted butter (room temperature)
-- 1/3 cup vegetable oil
+- &#188; cup vegetable oil
 - 3 cups sugar
-- 1 1/2 teaspoons pure vanilla extract
+- 1&#189; teaspoons pure vanilla extract
 - 4 large eggs (room temperature)
 - 2 cups buttermilk (room temperature)
 - 2 teaspoons baking soda

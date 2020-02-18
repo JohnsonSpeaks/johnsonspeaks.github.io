@@ -24,7 +24,7 @@ Start off with this delicious appetizer, a great start to a lovely evening.
 - 100g creme fraiche
 - 200g smoked salmon
 - 1 lemon
-- 1/2 lemon juice
+- &#189; lemon juice
 - 1 tablespoon of creamed horseradish
 - 2 tablespoons of finely chopped fresh dill
 - Caper berries

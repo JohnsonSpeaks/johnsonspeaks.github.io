@@ -19,9 +19,9 @@ This elegant drink is a wonderful way to end a long day.
 
 ## Ingredients
 
-- 1 1/2 ounces gin
-- 3/4 ounce applejack
-- 1/4 ounce lemon juice
+- 1&#189; ounces gin
+- &#190;ounce applejack
+- &#188;ounce lemon juice
 - 1-2 dashes grenadine
 - 1 egg white
 - Garnish: Maraschino cherry

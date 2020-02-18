@@ -10,7 +10,7 @@ order: 1
 
 # Beet Cashew Hummus with Garlic Tahini
 
-This spread is great to look at and eat! Enjoy a modern twist on the classic Garlic Tahini. 
+This spread is great to look at and eat! Enjoy a modern twist on the classic Garlic Tahini.
 
 <!--more-->
 
@@ -19,27 +19,27 @@ This spread is great to look at and eat! Enjoy a modern twist on the classic Gar
 ## Ingredients
 
 Beet Cashew Hummus
-- 11/4 cup of raw cashews, soaked for at least two hours
+- &#188; cup of raw cashews, soaked for at least two hours
 - 1 medium beet
-- 1/4 cup of fresh lemon juice
+- &#188; cup of fresh lemon juice
 - 3 tablespoons of tahini
 - 3 tablespoons of extra virgin olive oil
 - 1 tablespoon of water
 - 2 cloves of garlic
-- 1/2 teaspoon of salt
+- &#189; teaspoon of salt
 - Pinch cayenne
 Almond Za’atar
-- 1/3 cup dry roasted almonds
+- &#189; cup dry roasted almonds
 - 1 teaspoon toasted sesame seeds
 - 1 teaspoon sumac
 - 1 teaspoon dried thyme
-- 1/4 teaspoon of salt
-- 1/4 teaspoon extra virgin olive oil
+- &#188; teaspoon of salt
+- &#188; teaspoon extra virgin olive oil
 Garlic Tahini Yogurt Swirl
-- 1/4 cup of yogurt
+- &#188; cup of yogurt
 - 1 tablespoon tahini
 - 1 large garlic clove
-- 1/8 teaspoon salt
+- a pinch of salt
 
 
 ## Method

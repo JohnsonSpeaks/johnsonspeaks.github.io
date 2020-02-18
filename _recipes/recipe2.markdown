@@ -21,11 +21,11 @@ An eccentric and colourful Italian meal to brighten up your meal times.
 
 - 8 ounces of beets
 - 12 ounces of spaghetti
-- 3/4 cup part-skim ricotta cheese
+- &#190; cup part-skim ricotta cheese
 - 2 tablespoons extra-virgin olive oil
 - 2 tablespoons lemon juice
 - 1 teaspoon of salt
-- 1/4 cup chopped walnuts
+- &#188; cup chopped walnuts
 - Freshly grated parmesan cheese
 - 2 tablespoons of chopped fresh mint
 
