@@ -35,7 +35,7 @@ defaults:
     order:
 baseurl: ''
 url: https://johnsonspeaks.github.io
-description: A website with writing and recipes
+description: My musings
 avatar: /uploads/moi.jpg
 favicon: assets/favicon.ico
 gridlayout: false
