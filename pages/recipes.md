@@ -7,10 +7,8 @@ tags:
 hide: false
 ---
 
-Here is an introduction to my recipe site
+It's time to give pink a second chance, why not start by eating in pink.
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+These recipes take the colour pink to new and exciting places, with happier and prettier meals. Brings more joy to your days by making these delicious meals, all inspired by millennial pink. From party appetizers to relaxation cocktails there is nothing you can't make with pink.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's time to Eat In Pink!
