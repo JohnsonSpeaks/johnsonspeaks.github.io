@@ -9,7 +9,7 @@ excerpt_separator: "<!--more-->"
 order: 6
 ---
 
-# Watermelon, Rose and and Lime Sorbet
+# Watermelon, Rose and Lime Sorbet
 
 Something sweet to wrap up on the sofa with after a long day.
 
