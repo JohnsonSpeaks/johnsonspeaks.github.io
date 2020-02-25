@@ -1,5 +1,5 @@
 ---
-title: Watermelon, Rose and and Lime Sorbet
+title: Watermelon, Rose and Lime Sorbet
 date: 2019-10-19 00:00:00 Z
 tags:
 - Italian
@@ -11,7 +11,7 @@ order: 6
 
 # Watermelon, Rose and and Lime Sorbet
 
-Something sweet to wrap up on the sofa with after a long day. 
+Something sweet to wrap up on the sofa with after a long day.
 
 <!--more-->
 
