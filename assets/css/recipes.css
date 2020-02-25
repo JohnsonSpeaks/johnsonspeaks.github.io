@@ -117,11 +117,15 @@ a {
 
 /* for a menu for all recipes */
 ul.recipes {
-  border: 1px solid gray;
+  border: 1px solid white;
   width: 15%;
   float:right;
   font-size: 60%;
   position: absolute;
   top:40px;
   right:20px;
+}
+
+ul.recipes a {
+  color: white;
 }
