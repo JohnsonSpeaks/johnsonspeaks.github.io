@@ -39,7 +39,7 @@ description: My musings
 avatar: /uploads/moi.jpg
 favicon: assets/favicon.ico
 gridlayout: false
-recipemenu: false
+recipemenu: true
 header_text: The Travelling Writer
 recipecollection: Pink Recipes
 header_feature_image: /uploads/china.jpg
