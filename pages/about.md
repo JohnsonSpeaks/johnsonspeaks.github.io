@@ -1,18 +1,14 @@
 ---
-title: About
+title: About Me
 permalink: "/about/"
 layout: page
-subtitle: All about me and my life
-header_feature_image: "/uploads/log.jpg"
+subtitle:
+header_feature_image: _uploads/me.jpg
 tags:
 description:
 hide: false
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+I was born travelling. I've never lived in a single place for more than 3 years. I was raised on living cheap and saving for the next adventure. When travelling around, the only constant things in my life were my books, and my writing. So I'm combining them all.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I set out with a notebook, a few savings, and some rules to make things interesting. When travelling, never stay in a single city for more than 24 hours, within that time I can do whatever I like. After 24 hours however, I have to leave. Let's see how it goes. 
