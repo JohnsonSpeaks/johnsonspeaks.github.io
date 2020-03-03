@@ -3,7 +3,7 @@ title: About Me
 permalink: "/about/"
 layout: page
 subtitle:
-header_feature_image: _uploads/me.jpeg
+header_feature_image: 
 tags:
 description:
 hide: false
