@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include recipeshead.html %}
-  <body>
+  <body class="{{page.layout}}" id="{{ page.title | replace: " ", "_" }}">
 
     {%- if page.layout == "recipeshome" -%}
     {%- if site.recipe_bookcover -%}
