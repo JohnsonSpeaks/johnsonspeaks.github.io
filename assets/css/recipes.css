@@ -13,6 +13,7 @@ html {
 img {
   float:right;
   max-width: 50%;
+  min-width: 20%;
 }
 
 h1 class="site-title"{
