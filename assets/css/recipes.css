@@ -79,8 +79,8 @@ img.cover {
 float:right;
 width:25%;
 margin:30px;
-max-width: 40%;
-min-width: 20%;
+max-width: 20%;
+min-width: 5%;
 }
 
 
