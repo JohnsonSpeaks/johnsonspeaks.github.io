@@ -2,8 +2,8 @@
 layout: post
 title: 24 Hours in Prague, Czech Republic
 date: 2020-04-27 04:06
-published: false
-header_feature_image:
+published: true
+header_feature_image: _uploads/prague header.jpg
 caption:
 tags:
 - travelled
@@ -18,12 +18,16 @@ The most iconic landmark in Prague is an Astronomical clock. Each hour, a group 
 
 The train from Budapest to Prague was seven hours. A seven hour journey with no designated seats - we sat on the floor of the train by a toilet. Luckily, this was the longest train journey we had to do, and it was the most sleep we were able to get at once on our whole trip.
 
+[![The Astronomical Tower](/_uploads/pragueclock.jpg)](/_uploads/pragueclock.jpg)
+
 Our hostel was this botanical beauty, the 20 person room was covered top to bottom in vines and plants. Everything was mahogany and ancient. Balconies surrounded the building, and a small courtyard was situated in the middle. Oh, and the hostel had a dog!
 
 We really didn't have an agenda for Prague, we just wanted to look around, become apart of the city. We were enamoured with the history and architecture of the city. Prague is home to the largest castle in the world, which was founded in 880 - yes that's the year 880.
 
-After wondering around for hours, we stumbled upon a rickety book shop by the Charles Bridge. The feminist section was right next to the witchcraft section - we stayed in there for a very long time. When we finally left the books the sun was already setting. We walked along the river Vltava, it was busy, but there was never a moment where we felt overcrowded or afraid, there was something strangely comforting about the foreboding city.
+[![Prague Castle](/_uploads/praguecastle.jpg)](/_uploads/praguecastle.jpg)
+
+After wondering around for hours, we stumbled upon a rickety bookshop by the Charles Bridge. We spent most of our time in this bookshop, it was nice to not be moving around constantly for once. When we finally left the books the sun was already setting. We walked along the river Vltava, it was busy, but there was never a moment where we felt overcrowded or afraid, there was something strangely comforting about the foreboding city.
 
 For the first time on our trip, it started to rain - we were relieved. It felt nice to be a bit cold for once, it woke us up. We dined at a pretty little restaurant that evening, before we went back to our hostel to rest.
 
-Prague is possibly one of the most gorgeous cities I have ever seen. In a way I regret coming to Prague on this trip, I was far too tired to really appreciate the city. More than anything I wish I could go back when I wasn't so poor or tired, and I bet that Prague is even prettier in the Winter. 
+Prague is possibly one of the most gorgeous cities I have ever seen. In a way I regret coming to Prague on this trip, I was far too tired to really appreciate the city. More than anything I wish I could go back when I wasn't so poor or tired, and I bet that Prague is even prettier in the Winter.
