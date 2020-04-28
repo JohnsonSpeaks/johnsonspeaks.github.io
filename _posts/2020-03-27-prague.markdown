@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 24 Hours in Prague, Czech Republic
-date: 2020-04-27 04:06
+date: 2020-03-27 04:06
 published: true
 header_feature_image: _uploads/prague header.jpg
 caption:
