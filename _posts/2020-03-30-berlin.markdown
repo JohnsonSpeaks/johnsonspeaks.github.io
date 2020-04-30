@@ -2,7 +2,7 @@
 layout: post
 title: 24 Hours in Berlin, Germany
 date: 2020-03-30 14:52
-published: false
+published: true
 header_feature_image: _uploads/berlinheader.jpg
 caption:
 tags:   

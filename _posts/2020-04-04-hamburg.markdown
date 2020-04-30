@@ -2,7 +2,7 @@
 layout: post
 title: 24 Hours in Hamburg, Germany
 date: 2020-04-04 14:53
-published: false
+published: true
 header_feature_image: _uploads/hamburgheader.jpg
 caption:
 tags:   

@@ -2,7 +2,7 @@
 layout: post
 title: 24 Hours in Amsterdam, The Netherlands
 date: 2020-04-15 14:52
-published: false
+published: true
 header_feature_image: _uploads/amsterdamheader.jpg
 caption:
 tags:    
