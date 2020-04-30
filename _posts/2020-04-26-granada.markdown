@@ -1,9 +1,32 @@
 ---
 layout: post
-title: Granada
+title: 24 Hours in Granada, Spain
 date: 2020-04-26 14:53
 published: false
-header_feature_image:
+header_feature_image: _uploads/granadaheader.jpg
 caption:
-tags:    # use [tag1,tag2]
+tags:   
+- travelling
+- travel
+- Granada
+- Spain
+ # use [tag1,tag2]
 ---
+
+After spending a month travelling around Europe, my friends and I were ready to settle down for the rest of the Summer. That was before an old friend invited us to her home in Spain for two weeks - we couldn't resist. While we were at her home, we booked a hostel in Granada, where we would, you guessed it, spend another 24 hours exploring.
+
+Granada is a beautiful and historic city located at the very South of Spain, and is visited by over 2m tourists each year. We arrived late in the evening so we could rest before the next day.
+
+[![Alhambra Columns](/_uploads/alhambra.jpg)](/_uploads/alhambra.jpg)
+
+We spent the next morning at a leisurely pace, eating crepes and drinking coffee outside of our hostel. We decided to explore the history of Granada, heading to the Alhambra - a palace which was used as a fortress. Granada is covered in a yellow haziness, which is made more apparent by the beaming sun. There was no where to cover yourself, so we had to bare the 30 degrees without any shade.
+
+We went on to explore some ruins and secret gardens before resting with some more coffee and ice cream. While the sun finally began its descent, we sat and watched a man play a violin for about an hour at Mirador San Nicolás. Spain made it easy for us to lazily spend the day doing the minimum.
+
+[![The View From Mirador San Nicolás](/_uploads/viewg.jpg)](/_uploads/viewg.jpg)
+
+Granada is famous for its iconic Tinto De Verano, a Spanish cocktail which quickly became our favourite. We sat and ate tapas for a while. After finishing up dinner, we decided to walk along the cobbled backstreets before returning to our hostel, trying to soak up as much of Granada as we could before we had to leave.
+
+We finally returned to our hostel, quickly realising that there was a curfew, the doors were locked. We spent the rest of the night huddled on the steps, chatting and taking small naps before the doors opened at 7am. The ancient Granada was amazing, and we would all gladly spend another night clustered together.
+
+[![Watching the Sun in Granada](/_uploads/granadasun.jpg)](/_uploads/granadasun.jpg)
