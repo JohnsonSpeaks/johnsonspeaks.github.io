@@ -28,6 +28,6 @@ We walked along the canals, of which there are over 160, and made our way throug
 
 At about 2am we went back to the 'I Amsterdam' sign, to try and get a picture when it was empty. Although several other groups had the same idea, it was empty enough that we got a nice photo in front of the sign. Amsterdam was a lovely city, somewhere we all plan to go back to (this time with some money).
 
-At 5am the next morning, we packed our things and made our way to the train station. We had to board several trains that day and go through several countries to get back home. We were incredibly fortunate to go travelling around Europe on trains, but we couldn't wait to be back in England, at least we could get a home cooked meal.
+At 5am the next morning, we packed our things and made our way to the train station. We had to board several trains that day and go through two other countries to get back home: Brussels and France. We were incredibly fortunate to go travelling around Europe on trains, but we couldn't wait to be back in England, at least we could get a home cooked meal.
 
 [![The I Amsterdam Sign](/_uploads/sign.jpg)](/_uploads/sign.jpg)
